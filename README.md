@@ -22,7 +22,7 @@
 <br><br>
 
 #### **Programming and Scripting Languages**  
-![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=white) ![Paython](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ---
