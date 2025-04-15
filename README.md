@@ -55,9 +55,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/samarsalh/](https://www.linkedin.com/in/youssif-gassar-87b7001b2
-)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
-<a href="[https://www.facebook.com/maybe.good.35/](https://www.facebook.com/profile.php?id=100002410677736&locale=en_EN)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/youssif-gassar-87b7001b2/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100002410677736&locale=en_EN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
 
 <br>
 <br>
