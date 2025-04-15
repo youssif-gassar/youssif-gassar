@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to  Samar Saleh's profile 👋 </h1>
+<h1 align="center">Welcome to  Youssif Gassar's profile 👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
@@ -7,14 +7,12 @@
 
 - 🏢 **QA & Software Test Engineer.**
   <br>
-- 👨‍💻 **Graduated from ITI 9-month diploma.**
+- 🌱 **ISTQB Foundation Level Certified Tester (CTFL)**
   <br>
-- 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
+- 💬 **Skills: Manual Testing, Test Automation(Selenium with Java), API Testing, SQL and more.**
   <br>
-- 💬 **Skills: Manual Testing, Test Automation(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
-  <br>
-- 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
-      University. OCT 2018 - May 2023**
+- 👨‍💻 **Bachelor of Business/Acc from the Faculty of Commerce Zagazig University. OCT 2017 - July 2021**
+      
 
 
 <br><br>
