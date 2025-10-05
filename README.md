@@ -5,13 +5,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **QA & Software Test Engineer.**
+- 🏢 **| Software Testing Engineer - ITI Graduate | ex NBE | ex BDC **
   <br>
-- 🌱 **ISTQB Foundation Level Certified Tester (CTFL)**
+- 🌱 ** ISTQB® CTFLv4 - ISTQB® MAT Certified**
   <br>
 - 💬 **Skills: Manual Testing, Test Automation(Selenium with Java), API Testing, SQL and more.**
   <br>
-- 👨‍💻 **Bachelor of Business/Acc from the Faculty of Commerce Zagazig University. OCT 2017 - July 2021**
+- 👨‍💻 **Bachelor of Business/Acc from the Faculty of Commerce English Section Zagazig University. OCT 2017 - July 2021**
       
 
 
