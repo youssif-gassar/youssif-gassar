@@ -11,7 +11,7 @@
   <br>
 - 💬 **Skills: Manual Testing, Test Automation(Selenium with Java), API Testing, SQL and more.**
   <br>
-- 👨‍💻 **Bachelor of Business/Acc from the Faculty of Commerce English Section Zagazig University. OCT 2017 - July 2021**
+- 👨‍💻 **Bachelor of Business English Section ZU . Grad 2021**
       
 
 
